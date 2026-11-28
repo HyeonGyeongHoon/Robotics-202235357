@@ -26,6 +26,7 @@ setup(
         'console_scripts': [
             'simple_oa = 3_lidar.simple_oa:main',
             'simple_yaw_oa = 3_lidar.simple_yaw_oa:main',
+            'simple_oa_and_escape = 3_lidar.simple_oa_and_escape:main'
         ],
     },
 )
